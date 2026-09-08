@@ -57,24 +57,3 @@ omarchy theme bg next
 omarchy-theme-switcher
 ```
 
----
-
-## 📁 Theme Structure
-
-```text
-omarchy-japan-sakura/
-├── colors.toml         # Base palette and semantic color definitions
-├── shell.toml          # Omarchy shell surfaces (bar, popups, menus, notifications)
-├── hyprland.lua        # Hyprland window decorations, blur passes, and layer rules
-├── ghostty.conf        # Ghostty terminal styling (opacity + blur)
-├── kitty.conf          # Kitty terminal styling (opacity + blur)
-├── alacritty.toml      # Alacritty terminal styling (opacity + blur)
-├── icons.theme         # System icon theme (Yaru-magenta-dark)
-├── preview.png         # High-resolution theme preview image
-└── backgrounds/        # Curated 4K/UHD Japanese wallpapers
-    ├── 01-sakura-gate.jpg
-    ├── 02-sakura-trees-river.jpg
-    ├── 03-sakura-fuji-night.png
-    ├── 04-sakura-mountain-range.jpg
-    └── 05-sakura-tokyo-tower.jpg
-```
