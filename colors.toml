@@ -1,0 +1,40 @@
+mode = "dark"
+
+accent = "#ff75a0"
+selection = "#3b263e"
+selection_foreground = "#ffffff"
+selection_background = "#ff75a0"
+muted = "#5d4e68"
+
+background = "#14121a"
+dark_background = "#0e0d13"
+darker_background = "#09080d"
+lighter_background = "#201c29"
+
+foreground = "#f5e6eb"
+dark_foreground = "#7e7088"
+light_foreground = "#fceef3"
+bright_foreground = "#ffffff"
+
+active_border_color = "#ff75a0"
+active_tab_background = "#ff75a0"
+
+# Japan Sakura Palette
+red = "#ff5c8a"
+yellow = "#f6c177"
+orange = "#ff9e80"
+green = "#8bd5ca"
+cyan = "#7dcfff"
+blue = "#89b4fa"
+magenta = "#e58fb4"
+brown = "#825867"
+
+bright_red = "#ff7a9e"
+bright_yellow = "#ffe082"
+bright_green = "#a6e3a1"
+bright_cyan = "#a4eefb"
+bright_blue = "#b4befe"
+bright_magenta = "#f5bde6"
+
+hyprland_active_border = "rgba(ff75a0ee) rgba(e58fb4ee) rgba(7dcfffee) 45deg"
+hyprland_inactive_border = "rgba(352c3f88)"

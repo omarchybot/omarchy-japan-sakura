@@ -1,0 +1,128 @@
+# Omarchy shell surfaces styled for Japan Sakura (modern frosted glass & sakura accents)
+
+[bar]
+background       = "#14121a"
+background-alpha = 0.65
+text             = "#f5e6eb"
+active           = "#ff5c8a"
+scale-with-font  = true
+size-horizontal  = 28
+size-vertical    = 30
+
+[hyprland]
+active-border            = "rgba(ff75a0ee) rgba(e58fb4ee) rgba(7dcfffee) 45deg"
+active-border-foreground = "rgba(f5e6eb33)"
+
+[controls]
+normal-color        = "#f5e6eb"
+normal-fill-alpha   = 0.08
+normal-border       = "#ffffff"
+normal-border-width = 1
+normal-border-alpha = 0.12
+
+hover-cursor-color        = "#ffffff"
+hover-cursor-fill-alpha   = 0.18
+hover-cursor-border       = "#ff75a0"
+hover-cursor-border-width = 1
+hover-cursor-border-alpha = 0.40
+
+focus-color        = "#ffffff"
+focus-fill-alpha   = 0.18
+focus-border       = "#ff75a0"
+focus-border-width = 1
+focus-border-alpha = 0.70
+
+selected-color        = "#ffffff"
+selected-fill-alpha   = 0.25
+selected-border       = "#ff75a0"
+selected-border-width = 1
+selected-border-alpha = 0.90
+
+pressed-fill-alpha   = 0.30
+selection-fill-alpha = 0.40
+
+[popups]
+background       = "#14121a"
+background-alpha = 0.78
+text             = "#f5e6eb"
+border           = "#ff75a0"
+border-alpha     = 0.35
+border-width     = 1
+
+[tooltip]
+background       = "#1a1622"
+background-alpha = 0.85
+text             = "#f5e6eb"
+border           = "#ff75a0"
+border-alpha     = 0.35
+
+[notifications]
+background       = "#14121a"
+background-alpha = 0.80
+text             = "#f5e6eb"
+border           = "hyprland.active-border"
+border-alpha     = 0.75
+border-width     = 1
+countdown        = "#ff75a0"
+
+[launcher]
+background                = "#14121a"
+background-alpha          = 0.82
+text                      = "#f5e6eb"
+border                    = "#ff75a0"
+border-alpha              = 0.35
+scrim                     = "#08070b"
+scrim-alpha               = 0.45
+selected-background       = "#ff75a0"
+selected-background-alpha = 0.25
+selected-text             = "#ffffff"
+selected-border           = "#ff75a0"
+selected-border-alpha     = 0.80
+
+[menu]
+background                = "#14121a"
+background-alpha          = 0.82
+text                      = "#f5e6eb"
+border                    = "#ff75a0"
+border-alpha              = 0.35
+scrim                     = "#08070b"
+scrim-alpha               = 0.45
+selected-background       = "#ff75a0"
+selected-background-alpha = 0.25
+selected-text             = "#ffffff"
+selected-border           = "#ff75a0"
+selected-border-alpha     = 0.80
+
+[polkit]
+background       = "#14121a"
+background-alpha = 0.85
+text             = "#f5e6eb"
+text-error       = "#ff5c8a"
+border           = "#ff75a0"
+border-error     = "#ff5c8a"
+border-alpha     = 0.40
+scrim            = "#08070b"
+scrim-alpha      = 0.55
+accent           = "#ff75a0"
+
+[lock]
+background       = "#14121a"
+background-alpha = 0.75
+text             = "#f5e6eb"
+placeholder      = "#7e7088"
+text-error       = "#ff5c8a"
+border           = "#ff75a0"
+border-active    = "#ff75a0"
+border-error     = "#ff5c8a"
+border-alpha     = 0.50
+selection        = "#ff75a0"
+selection-alpha  = 0.45
+
+[image-picker]
+scrim                   = "#08070b"
+scrim-alpha             = 0.50
+text                    = "#f5e6eb"
+selected-border         = "#ff75a0"
+selected-border-alpha   = 1.0
+unselected-border       = "#ffffff"
+unselected-border-alpha = 0.20
