@@ -30,16 +30,7 @@ A slick, modern Japanese cherry blossom theme for [Omarchy](https://omarchy.org/
 
 ## 📦 Installation
 
-### Option 1: Local Setup (Recommended)
-
-Clone or link the theme into your Omarchy user themes directory:
-
-```bash
-git clone https://github.com/pandaind/omarchy-japan-sakura.git ~/.config/omarchy/themes/japan-sakura
-omarchy theme set "Japan Sakura"
-```
-
-### Option 2: CLI One-Liner (if hosted in a repo)
+### CLI One-Liner (if hosted in a repo)
 
 ```bash
 omarchy theme install https://github.com/pandaind/omarchy-japan-sakura.git
